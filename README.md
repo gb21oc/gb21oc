@@ -2,6 +2,7 @@ Olá me chamo <strong>Gabriel Jose</strong> nasci em 2002, sou estudande de prog
 Atualmente estou cursando <strong>Ciencia da Computação pela Estacio</strong>.
 Tenho paixão pelo oque eu faço, conheci o mundo da programção em 2017 no meu ensino tecnico,
 meu primeiro contato foi com: HTML, CSS, PHP.
+Para mais contatos me chame no <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9/">Linkedin</a>
 
 # Experiencias no mercado:
 
