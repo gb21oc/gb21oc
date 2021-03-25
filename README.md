@@ -21,7 +21,7 @@ Para mais contatos me chame no <a href="https://www.linkedin.com/in/gabriel-jos%
 ### Back-End:
   <p>-> Python - curso em video</p>
   <p>-> Python - udemy</p>
-  <p>-> Cursando Machine-Learning - udemy / coursera</p>
+  <p>-> Machine-Learning - udemy / coursera</p>
   <p>-> Php Basico - udemy</p>
   <p>-> Node.js - udemy</p>
   <p>-> C# - udemy</p>
