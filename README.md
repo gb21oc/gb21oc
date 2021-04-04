@@ -29,5 +29,6 @@ Para mais contatos me chame no <a href="https://www.linkedin.com/in/gabriel-jos%
 ### Cursos gerais:
   <p>-> ISO 27002 - pmg academy</p>
   <p>-> Curso de Redes - dltec</p>
+  <p>-> Introdução ao Pentest - solyd</p>
 
 
