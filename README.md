@@ -19,8 +19,7 @@ Para mais contatos me chame no <a href="https://www.linkedin.com/in/gabriel-jos%
   <p>-> Desenvolvimento web Completo - udemy</p>
   
 ### Back-End:
-  <p>-> Python - curso em video</p>
-  <p>-> Python - udemy</p>
+  <p>-> Python - curso em video / udemy</p>
   <p>-> Machine-Learning - udemy / coursera</p>
   <p>-> Php Basico - udemy</p>
   <p>-> Node.js - udemy</p>
@@ -30,5 +29,6 @@ Para mais contatos me chame no <a href="https://www.linkedin.com/in/gabriel-jos%
   <p>-> ISO 27002 - pmg academy</p>
   <p>-> Curso de Redes - dltec</p>
   <p>-> Introdução ao Pentest - solyd</p>
+  <p>-> Desenvolvimento Seguro - udemy</p>
 
 
