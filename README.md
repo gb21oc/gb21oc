@@ -1,15 +1,11 @@
-Olá me chamo <strong>Gabriel Jose</strong> nasci em 2002, sou estudande de programação, conclui o <strong>ensino medio tecnico</strong>.
-Atualmente estou cursando <strong>Ciencia da Computação pela Estacio</strong>.
-Tenho paixão pelo oque eu faço, conheci o mundo da programção em 2017 no meu ensino tecnico,
-meu primeiro contato foi com: HTML, CSS, PHP.
-Para mais contatos me chame no <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9/">Linkedin</a>
+Hello, my name is Gabriel Jose I was born in 2002, I am a student of programming, I finished high school. I am currently studying Computer Science at Estácio. I have a passion for what I do, I got to know the programming world in 2017 in my technical education, my first contact was with: HTML, CSS, PHP. For more contacts call me on <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9/">Linkedin</a>
 
-# Experiencias no mercado:
+# Market experiences:
 
-<p>-> Estagiario de Angular 8(2 meses)</p>
-<p>-> Desenvolvedor C#, Python e SQL Server(ATUAL)</p>
+<p>->Angular 8 Trainee (2 months)</p>
+<p>-> C #, Python and SQL Server developer(current)</p>
 
-# Minhas certificações:
+# My certifications:
 
 ### Front-End:
   <p>-> HTML5 - udemy</p>
