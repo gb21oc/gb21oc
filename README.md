@@ -2,7 +2,7 @@ Hello, my name is Gabriel Jose I was born in 2002, I am a student of programming
 
 # Market experiences:
 
-<p>->Angular 8 Trainee (2 months)</p>
+<p>->Angular 8 Trainee (4 months)</p>
 <p>-> C #, Python and SQL Server developer(current)</p>
 
 # My certifications:
