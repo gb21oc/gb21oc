@@ -20,11 +20,11 @@ Hello, my name is Gabriel Jose I was born in 2002, I am a student of programming
   <p>-> Php Basico - udemy</p>
   <p>-> Node.js - udemy</p>
   <p>-> C# - udemy</p>
-
-### Cursos gerais:
+  
+  ### Cybersecurity:
   <p>-> ISO 27002 - pmg academy</p>
-  <p>-> Curso de Redes - dltec</p>
   <p>-> Introdução ao Pentest - solyd</p>
   <p>-> Desenvolvimento Seguro - udemy</p>
 
-
+### General courses:
+  <p>-> Curso de Redes - dltec</p>
