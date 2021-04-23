@@ -8,18 +8,13 @@ Hello, my name is Gabriel Jose I was born in 2002, I am a student of programming
 # My certifications:
 
 ### Front-End:
-  <p>-> HTML5 - udemy</p>
-  <p>-> JavaScript - udemy</p>
-  <p>-> CSS - udemy</p>
+  <p>-> HTML5 - udemy; JavaScript - udemy; CSS - udemy; Desenvolvimento web Completo - udemy</p>
   <p>-> Angular 8 - balta.io</p>
-  <p>-> Desenvolvimento web Completo - udemy</p>
   
 ### Back-End:
   <p>-> Python - curso em video / udemy</p>
   <p>-> Machine-Learning - udemy / coursera</p>
-  <p>-> Php Basico - udemy</p>
-  <p>-> Node.js - udemy</p>
-  <p>-> C# - udemy</p>
+  <p>->C# - udemy</p>
   
   ### Cybersecurity:
   <p>-> ISO 27002 - pmg academy</p>
