@@ -19,6 +19,7 @@ Hello, my name is Gabriel José I was born in 2002, I am a student of programmin
   ### Cybersecurity:
   <p>-> ISO 27002 - pmg academy</p>
   <p>-> Introdução ao Pentest - solyd</p>
+  <p>-> Pentest Profissional - Desec</p>
   <p>-> Desenvolvimento Seguro - udemy</p>
 
 ### General courses:
