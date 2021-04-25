@@ -1,4 +1,4 @@
-Hello, my name is Gabriel José I was born in 2002, I am a student of programming and cybersecurity, I finished high school. I am currently studying Computer Science at Estácio. I have a passion for what I do, I got to know the world of programming in 2017 in my technical training, my first contact was with: HTML, CSS, PHP. For more contacts, chat with me on <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9/">Linkedin</a>
+Hello, my name is Gabriel José I was born in 2002, I am a student of programming and cybersecurity, I finished high school. I am currently studying Computer Science at Estácio. I have a passion for what I do, I got to know the world of programming in 2017 in my technical training, my first contact was with: HTML, CSS, PHP. For more contacts, chat with me on <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9/">Linkedin</a>, <a href="https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq">certificate repository</a>
 
 # Market experiences:
 
