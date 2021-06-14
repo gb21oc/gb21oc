@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Gabriel José</h1>
 <h3 align="center">I am a student of programming and cybersecurity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb21oc&label=Profile%20views&color=0e75b6&style=flat" alt="gb21oc" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb21oc&label=Profile%20views&color=0e75b6&style=flat" alt="gb21oc" /> </p> -->
 
 - 🔭 I’m currently working on **Banco Arbi**
 
