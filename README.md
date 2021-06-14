@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Banco Arbi**
 
-- 🌱 I’m currently learning **Machine Learning(Python), Api C#/Node, cybersecurity, selenium e etc**
+- 🌱 I’m currently learning **Machine Learning(Python), Api C#/Node, cybersecurity e etc**
 
 - 📝 My certificates [https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq](https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq)
 
