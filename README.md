@@ -9,7 +9,7 @@
 
 - 📝 My certificates [https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq](https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq)
 
-- 🤝 I’m looking for help with **Node, Python, C#, TypeScript, Cybersecurity**
+- 🤝 I’m looking for help with **Node, Python, C#, TypeScript, Javascript, Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gb21oc?tab=repositories](https://github.com/gb21oc?tab=repositories)
 
