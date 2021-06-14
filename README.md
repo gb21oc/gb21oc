@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gabrielsuporte2021@gmail.com**
 
-- 📄 Know about my experiences [Angular8 Trainee (4 months); C #, Python and SQL Server developer(current)](Angular8 Trainee (4 months); C #, Python and SQL Server developer(current))
+- 📄 Know about my experiences **Angular8 Trainee (4 months); C #, Python and SQL Server developer(current)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
