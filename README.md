@@ -1,4 +1,5 @@
-<h1 align="center">Hello, my name is Gabriel José</h1>
+<h1 align="center">Hello, my name is Gabriel José <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+</h1>
 <h3 align="center">I am a student of programming and cybersecurity.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb21oc&label=Profile%20views&color=0e75b6&style=flat" alt="gb21oc" /> </p> -->
@@ -18,6 +19,15 @@
 - 📫 How to reach me **gabrielsuporte2021@gmail.com**
 
 - 📄 Know about my experiences **Angular8 Trainee (4 months); C #, Python and SQL Server developer(current)**
+
+<p align="center">
+  <a href="https://github.com/gb21oc">
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=gb21oc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/gb21oc">
+  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb21oc&layout=compact&langs_count=16&theme=radical"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,6 +95,6 @@
 	</a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gb21oc&show_icons=true&locale=en&layout=compact" alt="gb21oc" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gb21oc&show_icons=true&locale=en&layout=compact" alt="gb21oc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gb21oc&show_icons=true&locale=en" alt="gb21oc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gb21oc&show_icons=true&locale=en" alt="gb21oc" /></p> -->
