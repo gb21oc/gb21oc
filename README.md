@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Node, Python, C#, TypeScript, Javascript, Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gb21oc?tab=repositories](https://github.com/gb21oc?tab=repositories)
+<!-- 👨‍💻 All of my projects are available at [https://github.com/gb21oc?tab=repositories](https://github.com/gb21oc?tab=repositories) -->
 
 - 💬 Ask me about **my skills and studies**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences **Angular8 Trainee (4 months); C #, Python and SQL Server developer(current)**
 
-- 💻 My HackerRank **https://www.hackerrank.com/luckygb21**
+- 👨‍💻 My HackerRank **https://www.hackerrank.com/luckygb21**
 
 <p align="center">
   <a href="https://github.com/gb21oc">
