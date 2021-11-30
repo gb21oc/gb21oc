@@ -23,6 +23,8 @@
 
 - 👨‍💻 My HackerRank **https://www.hackerrank.com/luckygb21**
 
+- 👨‍💻 My HackerRank **https://tryhackme.com/p/GabrielJose**
+
 <p align="center">
   <a href="https://github.com/gb21oc">
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=gb21oc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
