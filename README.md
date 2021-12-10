@@ -23,7 +23,7 @@
 
 - 👨‍💻 My HackerRank **https://www.hackerrank.com/luckygb21**
 
-- 👨‍💻 My HackerRank **https://tryhackme.com/p/GabrielJose**
+- 👨‍💻 My TryHackMe **https://tryhackme.com/p/GabrielJose**
 
 <p align="center">
   <a href="https://github.com/gb21oc">
