@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Banco Arbi**
 
-- 🌱 I’m currently learning **Machine Learning(Python), Api C#/Node, cybersecurity e etc**
+- 🌱 I’m currently learning **Machine Learning(Python), Api .NET/Node/Flask(Python), cybersecurity e etc**
 
 - 📝 My certificates [https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq](https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq)
 
-- 🤝 I’m looking for help with **Node, Python, C#, TypeScript, Javascript, Cybersecurity**
+- 🤝 I’m looking for help with **NodeJS, Python, C#/.NET, Javascript, Cybersecurity, Docker**
 
 <!-- 👨‍💻 All of my projects are available at [https://github.com/gb21oc?tab=repositories](https://github.com/gb21oc?tab=repositories) -->
 
