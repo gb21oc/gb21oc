@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb21oc&label=Profile%20views&color=0e75b6&style=flat" alt="gb21oc" /> </p> -->
 
-- 🔭 I’m currently working on **Banco Arbi**
+- 🔭 I’m currently working on **Grupo Profarma**
 
 - 🌱 I’m currently learning **Machine Learning(Python), Api .NET/Node/Flask(Python), cybersecurity e etc**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gabrielsuporte2021@gmail.com**
 
-- 📄 Know about my experiences **Angular8 Trainee (4 months); C #, Python and SQL Server developer(current)**
+- 📄 Know about my experiences **Angular8 Trainee (4 months); C #, Python and SQL Server developer(1 year and 4 months); Grupo Profarma Web Development(Current)**
 
 - 👨‍💻 My HackerRank **https://www.hackerrank.com/luckygb21**
 
