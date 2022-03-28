@@ -134,11 +134,11 @@
 </details>
 </p>
 
-<div align="center">
+<!--<div align="center">
     
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</div>-->
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/gb21oc/count.svg"/>
 </p>
