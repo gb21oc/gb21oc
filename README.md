@@ -5,25 +5,21 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb21oc&label=Profile%20views&color=0e75b6&style=flat" alt="gb21oc" /> </p> -->
 
-- 🔭 I’m currently working on **Grupo Profarma**
-
-- 🌱 I’m currently learning **Machine Learning(Python), Api .NET/Node/Flask(Python), cybersecurity e etc**
-
-- 📝 My certificates [https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq](https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq)
-
-- 🤝 I’m looking for help with **NodeJS/Javascript, PHP, Python, C#/.NET, Cybersecurity, Docker**
-
-<!-- 👨‍💻 All of my projects are available at [https://github.com/gb21oc?tab=repositories](https://github.com/gb21oc?tab=repositories) -->
-
-- 💬 Ask me about **my skills and studies**
-
-- 📫 How to reach me **gabrielsuporte2021@gmail.com**
-
-- 📄 Know about my experiences **Angular8 Trainee (4 months); C #, Python and SQL Server developer(1 year and 4 months); Grupo Profarma Web Development(Current)**
-
-- 👨‍💻 My HackerRank **https://www.hackerrank.com/luckygb21**
-
-- 👨‍💻 My TryHackMe **https://tryhackme.com/p/GabrielJose**
+<div style="display: inline_block;" align="center">
+	
+|  **** | **** |
+| :---------        |     :---------  |
+|**🔭 I’m currently working on** | **Grupo Profarma** |
+| **🌱 I’m currently learning** |  **Machine Learning(Python), Api .NET/Node/Flask(Python), cybersecurity e etc** |
+|**📝 My certificates** |  [https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq](https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq)|
+|**🤝 I’m looking for help with** |  **NodeJS/Javascript, PHP, Python, C#/.NET, Cybersecurity, Docker** |
+| **💬 Ask me about** | **my skills and studies** |
+|**📫 How to reach me** | **gabrielsuporte2021@gmail.com** |
+|**📄 Know about my experiences** |**Angular8 Trainee (4 months); C #, Python and SQL Server developer(1 year and 4 months); Grupo Profarma Web Development(Current)** |
+|**👨‍💻 My HackerRank** | https://www.hackerrank.com/luckygb21|
+|**👨‍💻 My TryHackMe** | https://tryhackme.com/p/GabrielJose|
+	
+</div>
 
 <p align="center">
   <a href="https://github.com/gb21oc">
@@ -138,6 +134,11 @@
 </details>
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gb21oc&show_icons=true&locale=en&layout=compact" alt="gb21oc" /></p>
+<div align="center">
+    
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gb21oc&show_icons=true&locale=en" alt="gb21oc" /></p> -->
+</div>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/gb21oc/count.svg"/>
+</p>
