@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" width="150"> my name is Gabriel José <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" width="150"> my name is Gabriel José <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60">
 </h1>
 <h3 align="center">I am a student of programming and cybersecurity.</h3>
 
