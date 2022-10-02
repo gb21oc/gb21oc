@@ -10,7 +10,7 @@
 |  **** | **** |
 | :---------        |     :---------  |
 |**🔭 I’m currently working on** | **Grupo Profarma** |
-| **🌱 I’m currently learning** |  **Python, Api .NET/Node/Nestjs/Flask(Python), cybersecurity e etc** |
+| **🌱 I’m currently learning** |  **Python, Api .NET/Node/Nestjs/Flask(Python), cybersecurity and pratics an Azure DevOps** |
 |**📝 My certificates** |  [https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq](https://drive.google.com/drive/folders/1kpinWm6Lp2YSQ0pI2k1cYBBuGtR8x-xq)|
 |**🤝 I’m looking for help with** |  **NodeJS/Javascript, PHP, Python, C#/.NET, Cybersecurity, Docker and Azure DevOps** |
 | **💬 Ask me about** | **my skills and studies** |
