@@ -17,7 +17,7 @@
 |**📫 How to reach me** | **gabrielsuporte2021@gmail.com** |
 |**📄 Know about my experiences** |**Angular8 Trainee (4 months); C #, Python and SQL Server developer(1 year and 4 months); Grupo Profarma Web Development(Current)** |
 |**👨‍💻 My HackerRank** | https://www.hackerrank.com/luckygb21|
-|**👨‍💻 My TryHackMe** | https://tryhackme.com/p/GabrielJose|
+|**👨‍💻 My TryHackMe** | https://tryhackme.com/p/0xRx7|
 	
 </div>
 
