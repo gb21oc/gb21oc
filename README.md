@@ -21,6 +21,7 @@
 	
 </div>
 
+<!--
 <p align="center">
   <a href="https://github.com/gb21oc">
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=gb21oc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -29,6 +30,7 @@
   <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb21oc&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </p>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
