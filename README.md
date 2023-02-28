@@ -3,8 +3,6 @@
 </h1>
 <h3 align="center">I am a student of programming and cybersecurity.</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb21oc&label=Profile%20views&color=0e75b6&style=flat" alt="gb21oc" /> </p> -->
-
 <div style="display: inline_block;" align="center">
 	
 |  **** | **** |
@@ -21,25 +19,12 @@
 	
 </div>
 
-<!--
-<p align="center">
-  <a href="https://github.com/gb21oc">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=gb21oc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/gb21oc">
-  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb21oc&layout=compact&langs_count=16&theme=radical"/>
-  </a>
-</p>
--->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://www.linkedin.com/in/gabriel-jos%C3%A9/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" />
 	</a>
-	<a href="https://discord.gg/Gb7#8468" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gb7#8468" height="30" width="40" />
-	</a>
+	<img id="discord" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gb7#8468" height="30" width="40" />
 </p>
 
 <details>
