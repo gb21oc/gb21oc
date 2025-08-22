@@ -125,8 +125,3 @@
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
     </a>     
 </details>
-
-
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/gb21oc/count.svg"/>
-</p>
