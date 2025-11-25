@@ -11,6 +11,7 @@
 |**🔭 I’m currently working on** | **Grupo Profarma** |
 | **💬 Ask me about** | **my skills and studies** |
 |**📫 How to reach me** | **gabrieldev721@gmail.com** |
+|**👨‍💻 My LeetCode** | https://leetcode.com/u/gb21oc/|
 |**👨‍💻 My HackerRank** | https://www.hackerrank.com/luckygb21|
 |**👨‍💻 My TryHackMe** | https://tryhackme.com/p/0xRx7|
 	
